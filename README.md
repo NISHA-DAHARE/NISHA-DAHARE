@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NISHA-DAHARE
-- 🌱 I’m currently learning: basics of programming!!
+- 🌱 I’m currently learning:Programming in C++ ,DSA and many yet to learn!!
 - 🎓  Pursuing MCA from NIT RAIPUR. 
 
 <!---
